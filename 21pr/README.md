@@ -1,5 +1,7 @@
 # Практическое занятие 21
 
+Redis: в API интернет-магазина из 11 практики добавлено кэширование GET-запросов
+
 ## из 11 практики
 
 - массив `products` с полями `title`, `category`, `description`, `price`, `stock`, `rating`, `image`

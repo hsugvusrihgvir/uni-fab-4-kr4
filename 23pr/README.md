@@ -1,6 +1,6 @@
 # Практическое занятие 23
 
-Docker Compose 
+Docker Compose: backend-серверы и Nginx запускаются вместе одной командой
 
 
 ## Запуск
