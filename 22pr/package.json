@@ -1,0 +1,14 @@
+{
+  "name": "22pr",
+  "version": "1.0.0",
+  "description": "Практика 22: Nginx load balancing",
+  "scripts": {
+    "start": "node backend/server.js",
+    "start:1": "set PORT=3000&& node backend/server.js",
+    "start:2": "set PORT=3001&& node backend/server.js",
+    "start:3": "set PORT=3002&& node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
