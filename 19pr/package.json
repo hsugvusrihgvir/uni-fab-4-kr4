@@ -1,0 +1,14 @@
+{
+  "name": "19pr",
+  "version": "1.0.0",
+  "description": "Практика 19: PostgreSQL API users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7"
+  }
+}
